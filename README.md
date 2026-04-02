@@ -125,4 +125,4 @@ Once running, visit `http://localhost:8000/docs` for the interactive Swagger UI.
 **Pranaav Ramesh Kumar**  
 B.S. Cybersecurity — University of South Florida  
 B.S. Data Science — IIT Madras  
-[LinkedIn](https://linkedin.com/in/pranaav) | [GitHub](https://github.com/rpranaavk)
+[LinkedIn](https://linkedin.com/in/rpranaav) | [GitHub](https://github.com/rpranaavk)
